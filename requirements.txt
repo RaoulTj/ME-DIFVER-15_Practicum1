@@ -3,5 +3,5 @@ scipy==1.11.4
 sympy==1.12
 plotly==5.18.0
 session_info==1.0.0
-traitlets==5.9.0
+traitlets==5.13.0
 
