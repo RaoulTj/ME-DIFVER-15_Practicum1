@@ -9,3 +9,6 @@ opdracht 2
 
 opdracht 1 klas B
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaoulTj/ME-DIFVER-15_Practicum1/main?urlpath=tree%2F2425_Practicum1_Opdracht1_V5.ipynb)
+
+EindOpdracht
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaoulTj/ME-DIFVER-15_Practicum1/main?urlpath=tree%2F2425_Practicum3_EindOpdracht_V1.ipynb)
