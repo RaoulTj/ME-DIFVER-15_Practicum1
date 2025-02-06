@@ -12,3 +12,6 @@ opdracht 1 klas B
 
 EindOpdracht
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaoulTj/ME-DIFVER-15_Practicum1/main?urlpath=tree%2F2425_Practicum3_EindOpdracht_V1.ipynb)
+
+EindOpdracht Herkansing
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaoulTj/ME-DIFVER-15_Practicum1/main?urlpath=tree%2F2425_Practicum3_HerEindOpdracht_V1_student.ipynb)
