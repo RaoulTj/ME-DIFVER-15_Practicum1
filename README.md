@@ -15,3 +15,5 @@ EindOpdracht
 
 EindOpdracht Herkansing
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RaoulTj/ME-DIFVER-15_Practicum1/main?urlpath=tree%2F2425_Practicum3_HerEindOpdracht_V1_student.ipynb)
+
+# ME-WIS2-24_Practicum
